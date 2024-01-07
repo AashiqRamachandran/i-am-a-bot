@@ -1,5 +1,7 @@
 # Multi Modal LLM Powered Captcha Solver
 
+![Demo Gif](https://raw.githubusercontent.com/AashiqRamachandran/i-am-a-bot/main/demo.gif)
+
 This project provides a solution for automatically solving various types of CAPTCHAs using a multi-modal Large Language Model (LLM). It leverages the capabilities of Google's Vertex AI and a custom set of agents to interpret and solve CAPTCHA challenges.
 
 ## Features
